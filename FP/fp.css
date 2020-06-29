@@ -1,0 +1,185 @@
+body
+{
+	margin: 0px 0px 700px 0px; 
+
+
+}	
+div.one
+{
+	background-color: #3d5b99;
+	height: 90px;
+	
+}
+p.title
+{
+	position: absolute;
+	color: white;
+	font-size: 40px;
+	left: 180px;
+	top: 0px;
+	font-family: verdana;
+	/*bottom: 10px; */
+}
+p.email
+{
+	font-size: 12px;
+	color: white;
+	font-family: verdana;
+	position: absolute;
+	left: 60%;
+	top:11px;
+}
+p.password
+{
+	font-size: 12px;
+	color: white;
+	font-family: verdana;
+	position: absolute;
+	left: 75%;
+	top:11px;
+}
+.email-input
+{
+
+	position: absolute;
+	left: 60%;
+	top:45px;
+}
+.password-input
+{
+
+	position: absolute;
+	left: 75%;
+	top:45px;
+}
+div.two > img
+{
+	position: absolute;
+	top: 199px;
+	left: 13.5%;
+	
+} 
+.two > p
+{
+	width: 550px;
+	font-size: 19px;
+	font-family: verdana;
+	position: absolute;
+	left: 13.5%;
+	top: 120px;
+    color: #3d5b99;   
+} 
+div.account
+{
+	position: absolute;
+	left: 820px; 
+	top:70px;
+}
+#acc
+{
+	font-size: 40px;
+	font-family: calibri;
+	opacity: 0.85;
+}
+#applyg
+{
+	background-image: linear-gradient(to bottom right,red, yellow);
+}
+.box
+{
+	width: 200px;
+	height: 35px;
+	border-radius: 8px 8px 8px 8px;
+	border: 1px solid gray;
+	background-color: white;
+	font-size: 19px;
+	padding-left: 10px;
+}
+#s
+{
+	position: absolute;
+	left: 220px;
+}
+.e
+{
+width: 420px;
+	height: 35px;
+	border-radius: 8px 8px 8px 8px;
+	border: 1px solid gray;
+	background-color: white;	
+	font-size: 19px;
+	padding-left: 10px;
+}
+.birthday
+{
+	opacity: 0.5;
+	font-size: 20px;
+	font-family: calibri;
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+.chose
+{
+	height: 35px;
+	width: 200px;
+	border-radius: 8px 8px 8px 8px;
+	border: 1px solid gray;
+	font-size: 19px;
+	padding-left: 10px;
+	opacity: 0.75;
+}
+.all
+{
+	font-size: 20px;
+	opacity: 0.8;
+	font-family: calibri;
+}
+.small
+{
+	font-size: 15px;
+	width: 450px;
+	opacity: 0.5;
+
+}
+.button
+{
+	background-color:green;
+	color: white;
+	border-radius: 3px;
+	width: 170px;
+	height: 38px;
+	font-size: 20px;
+	opacity: 0.8;
+}
+.quicktext
+{
+	font-size: 20px;
+	color: black;
+	font-family: calibri;
+	position: absolute;
+	top: 70px; 
+}
+.forgotpassword
+{
+
+	position: absolute;
+	left: 75%;
+	top:53px;
+	font-size: 15px;
+	color:white;
+	opacity: 0.8;
+	font-family: calibri;
+}
+.login
+{
+	width: 60px;
+	height: 23px;
+	background-color: #0000cc;
+	position: absolute;
+	left: 89%;
+	top:44px;
+	font-size: 15px;
+	color:white;
+	opacity: 0.8;
+	font-family: calibri;
+}
